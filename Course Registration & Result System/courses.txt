@@ -1,0 +1,4 @@
+BN111,Programming Fundamentals,15
+BN222,Data Structure and Algorithm,10
+BN777,Magic & Spells,50
+BN444,Magic and wands,100

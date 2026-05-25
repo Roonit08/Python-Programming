@@ -1,3 +1,0 @@
-print(sum(args))
-
-add()

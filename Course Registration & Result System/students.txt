@@ -2,3 +2,4 @@ S0023,Robin Bhusal,robinbhusal@gmail.com,0298765432
 S0025,Ronit Bhattarai,bhattaraironit@gmail.com,0298763490
 S0007,Hari Potter,manish@gmail.com,0288782737
 S0001,Hari potter,potterhari@gmail.com,0298765432
+ro1123,ranjita,bhattaraironit000@gmail.com,9815907135

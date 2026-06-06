@@ -16,3 +16,4 @@ Course Added
 Student Enrolled
 Result added
 Student Updated
+Student Added
